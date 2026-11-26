@@ -1,0 +1,7 @@
+Se requiere utilizar las siguientes directivas en los ejercicios:
+
+{$mode objfpc}{$H-}{$R+}{$T+}{$Q+}{$V+}{$D+}{$X-}{$warnings on}
+
+Se recomienda compilar siempre usando la opción -gl, para ver mejores mensajes de error como en
+
+fpc -gl hola.p
