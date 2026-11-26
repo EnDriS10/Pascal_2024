@@ -1,0 +1,12 @@
+rOjo 3 2 10 12 8
+verde 3 2 10 12 32
+amarillo 3 4 5 2 50
+FIN
+rojo 3 2 10 12 8
+verde 3 2 10 12 32
+amarillo 3 4 5 2 50
+FIN
+rojo 3 2 10 12 8
+verde 3 2 10 12 32
+amarillo 3 4 5 2 50
+FIN
